@@ -1,5 +1,3 @@
-Case Study for Machine Learning Internship
-
 Task-1 : Scrape the customer reviews for 10 mobile phones listed on Amazon.in
 
 Steps : 
